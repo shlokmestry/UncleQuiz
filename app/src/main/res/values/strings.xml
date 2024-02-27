@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Uncle Quiz</string>
+    <string name="enter_your_name">Enter Your Name</string>
+    <string name="name">Name</string>
+    <string name="proceed">Proceed</string>
+    <string name="let_s_go">Let\'s Go!</string>
+    <string name="copyright_2023_shlok_mestry">Copyright © 2023 Shlok Mestry</string>
+    <string name="hey">Hey</string>
+    <string name="general_knowledge">General Knowledge</string>
+    <string name="geography">Geography</string>
+    <string name="choose_a_quiz_type">Choose a quiz type</string>
+    <string name="animals">Animals</string>
+    <string name="food">Food</string>
+    <string name="which_is_the_hardest_substance_available_on_earth">Which is the hardest substance available on earth?</string>
+    <string name="rock">Rock</string>
+    <string name="diamond">Diamond</string>
+    <string name="crystal">Crystal</string>
+    <string name="stone">Stone</string>
+    <string name="which_is_the_most_common_non_contagious_disease_in_the_world">Which is the most common non-contagious disease in the world?</string>
+    <string name="which_is_the_most_sensitive_organ_in_our_body">Which is the most sensitive organ in our body?</string>
+    <string name="skin">skin</string>
+    <string name="heart">heart</string>
+    <string name="eyes">eyes</string>
+    <string name="tongue">tongue</string>
+    <string name="which_is_the_world_s_largest_flower">Which is the world’s largest flower?</string>
+    <string name="sunflower">Sunflower</string>
+    <string name="puya_raimondii">Puya Raimondii</string>
+    <string name="rafflesia_arnoldii">Rafflesia Arnoldii</string>
+    <string name="magnolia">Magnolia</string>
+    <string name="next">Next</string>
+    <string name="congratulations">Congratulations!</string>
+    <string name="your_score_is">Your Score is</string>
+    <string name="try_another_quiz">Try Another Quiz</string>
+    <string name="submit">Submit</string>
+    <string name="score">Score</string>
+</resources>
